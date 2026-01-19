@@ -1,5 +1,7 @@
 # Keybinds-App
 
+![Key+binds (1)](https://github.com/user-attachments/assets/d95bbb10-6414-4ab5-be52-48c23fc2ed47)
+## Preview
 ![Captura de tela](https://github.com/user-attachments/assets/ddeafddf-c694-49b7-a762-72af8d5c5511)
 
 ---
